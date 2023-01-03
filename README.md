@@ -11,10 +11,9 @@ conda activate qiime2-2022.8
 ```
 ## Классификация таксонов
 
-#### Тренируем классификатор с UNITE ITS Reference Sequences, следуя туториалу:
-https://john-quensen.com/tutorials/training-the-qiime2-classifier-with-unite-its-reference-sequences/?sfw=pass1669095455
+#### Тренируем классификатор с UNITE ITS Reference Sequences
 
-Скачали референсные файлы UNITE version 9.0, release date October 16, 2022 (https://unite.ut.ee/repository.php)
+Скачать референсные файлы UNITE version 9.0, release date October 16, 2022 (https://unite.ut.ee/repository.php)
 
 В документации qiime2 есть следующее замечание:
 
