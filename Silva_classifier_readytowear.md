@@ -25,3 +25,4 @@ qiime taxa barplot \
 --i-taxonomy taxonomy_weight_classifier.qza \
 --o-visualization taxa-bar-plots.qzv
 ```
+### По тому же принципу был построен классификатор, специфичный для "Plant Surface".
