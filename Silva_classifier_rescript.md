@@ -1,4 +1,5 @@
-# Подготовка таксономического классификатора на данных базы Silva с помощью плагина rescript
+
+# Обработка базы данных Silva с помощью плагина rescript
 
 ### Скачиваем базу данных silva
 https://github.com/bokulich-lab/RESCRIPt
