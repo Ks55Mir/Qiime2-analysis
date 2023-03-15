@@ -1,4 +1,6 @@
-
+```
+conda activate qiime2-2023.2
+```
 ### 1. Подгружаем данные последовательностей
 ```
 qiime tools import \
