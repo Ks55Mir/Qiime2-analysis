@@ -23,7 +23,7 @@ qiime demux summarize \
 --i-data demux-trimmed.qza \
 --o-visualization demux-trimmed.qzv 
 ```
-### 4. Обрезка
+### 4. Обрезка itsxpress до области ITS2
 ```
 qiime itsxpress trim-pair-output-unmerged\
   --i-per-sample-sequences demux-trimmed.qza \
@@ -37,7 +37,7 @@ qiime demux summarize \
 --i-data itsxpress_trimmed.qza \
 --o-visualization itsxpress_trimmed.qzv 
 ```
-### 6. Шумоподавление
+### 6. Шумоподавление (определение ASVs)
 ```
 qiime dada2 denoise-paired \
   --i-demultiplexed-seqs itsxpress_trimmed.qza \
@@ -60,7 +60,7 @@ qiime feature-table tabulate-seqs \
   --i-data dada2out/representative_sequences.qza \
   --o-visualization rep-seqs.qzv
 ```
-### 7. Таксономия
+### 7. Таксономия 
 ```
 qiime feature-classifier classify-sklearn   --i-classifier /home/evgeniy/Desktop/Kseniya/Aspa/metagenomics/classifier/unite-classifier-ver9_99_16.10.2022.qza   --i-reads dada2out/representative_sequences.qza   --o-classification taxonomy.qza
 
