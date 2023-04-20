@@ -1,0 +1,23 @@
+index,L11,L12,L4,Ecology
+k__Fungi;__;__;__;__;__;__,25,12,5,Undefined
+k__Fungi;p__Ascomycota;__;__;__;__;__,0,492,0,Undefined
+k__Fungi;p__Ascomycota;c__Dothideomycetes;o__Capnodiales;f__Cladosporiaceae;g__Cladosporium;__,1363,907,271,Saprotrophic fungi
+k__Fungi;p__Ascomycota;c__Dothideomycetes;o__Capnodiales;f__Cladosporiaceae;g__Cladosporium;s__Cladosporium_halotolerans,0,819,0,Saprotrophic fungi
+k__Fungi;p__Ascomycota;c__Dothideomycetes;o__Capnodiales;f__Cladosporiaceae;g__Cladosporium;s__Cladosporium_herbarum,0,1043,1116,Saprotrophic fungi
+k__Fungi;p__Ascomycota;c__Dothideomycetes;o__Dothideales;f__Saccotheciaceae;g__Aureobasidium;s__Aureobasidium_pullulans,415,0,0,Saprotrophic fungi
+k__Fungi;p__Ascomycota;c__Dothideomycetes;o__Mycosphaerellales;f__Teratosphaeriaceae;g__Constantinomyces;s__Constantinomyces_sp,0,0,435,Undefined
+k__Fungi;p__Ascomycota;c__Dothideomycetes;o__Pleosporales;f__Didymellaceae;g__Didymella;__,0,0,77,Saprotrophic fungi
+k__Fungi;p__Ascomycota;c__Dothideomycetes;o__Pleosporales;f__Phaeosphaeriaceae;g__Phaeosphaeria;s__Phaeosphaeria_sp,0,0,261,Pathogenic fungi 
+k__Fungi;p__Ascomycota;c__Dothideomycetes;o__Pleosporales;f__Pleosporaceae;g__Alternaria;__,479,2044,1440,Pathogenic fungi 
+k__Fungi;p__Ascomycota;c__Eurotiomycetes;o__Chaetothyriales;f__Herpotrichiellaceae;g__Cladophialophora;s__Cladophialophora_minutissima,0,0,406,Endophytic fungi
+k__Fungi;p__Ascomycota;c__Leotiomycetes;o__Helotiales;__;__;__,0,0,287,Saprotrophic fungi
+k__Fungi;p__Ascomycota;c__Leotiomycetes;o__Helotiales;f__Helotiaceae;g__Tetracladium;s__Tetracladium_sp,0,0,133,Saprotrophic fungi
+k__Fungi;p__Ascomycota;c__Sordariomycetes;__;__;__;__,0,328,0,Undefined
+k__Fungi;p__Ascomycota;c__Sordariomycetes;o__Hypocreales;f__Nectriaceae;g__Fusarium;s__Fusarium_oxysporum,478,0,0,Pathogenic fungi 
+k__Fungi;p__Basidiomycota;c__Agaricomycetes;o__Agaricales;f__Mycenaceae;g__Mycena;s__Mycena_metata,0,0,362,Saprotrophic fungi
+k__Fungi;p__Basidiomycota;c__Agaricomycetes;o__Agaricales;f__Tricholomataceae;g__Phyllotopsis;s__Phyllotopsis_nidulans,167,0,0,Saprotrophic fungi
+k__Fungi;p__Basidiomycota;c__Malasseziomycetes;o__Malasseziales;f__Malasseziaceae;g__Malassezia;s__Malassezia_arunalokei,267,0,322,delete
+k__Fungi;p__Basidiomycota;c__Malasseziomycetes;o__Malasseziales;f__Malasseziaceae;g__Malassezia;s__Malassezia_globosa,0,0,40,delete
+k__Fungi;p__Basidiomycota;c__Malasseziomycetes;o__Malasseziales;f__Malasseziaceae;g__Malassezia;s__Malassezia_restricta,63,0,842,delete
+k__Fungi;p__Basidiomycota;c__Tremellomycetes;o__Filobasidiales;f__Filobasidiaceae;g__Filobasidium;s__Filobasidium_sp,242,0,0,Undefined
+k__Fungi;p__Rozellomycota;c__Rozellomycotina_cls_Incertae_sedis;o__GS09;f__unidentified;g__unidentified;s__GS09_sp,13,0,0,Undefined
