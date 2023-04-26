@@ -1,0 +1,4 @@
+sample-id	forward-absolute-filepath	reverse-absolute-filepath
+L4	/home/evgeniy/Desktop/Metagenomics/new_data/ITS/raw_data/Krasnoyarsk-its2-L4_S152_L001_R1_001.fastq	/home/evgeniy/Desktop/Metagenomics/new_data/ITS/raw_data/Krasnoyarsk-its2-L4_S152_L001_R2_001.fastq
+L11	/home/evgeniy/Desktop/Metagenomics/new_data/ITS/raw_data/Krasnoyarsk-its2-L11_S159_L001_R1_001.fastq	/home/evgeniy/Desktop/Metagenomics/new_data/ITS/raw_data/Krasnoyarsk-its2-L11_S159_L001_R2_001.fastq
+L12	/home/evgeniy/Desktop/Metagenomics/new_data/ITS/raw_data/Krasnoyarsk-its2-L12_S160_L001_R1_001.fastq	/home/evgeniy/Desktop/Metagenomics/new_data/ITS/raw_data/Krasnoyarsk-its2-L12_S160_L001_R2_001.fastq
