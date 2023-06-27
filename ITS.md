@@ -67,5 +67,20 @@ qiime feature-classifier classify-sklearn   --i-classifier /home/evgeniy/Desktop
 qiime taxa barplot \
 --i-table dada2out/table.qza \
 --i-taxonomy taxonomy.qza \
+```
+
+### 8. Фильтрация
+```
+qiime taxa filter-table \
+--i-table table.qza \
+--i-taxonomy /home/evgeniy/Desktop/Metagenomics/new_data/ITS/taxonomy.qza \
+--p-exclude 'Malasseziomycetes' \
+--o-filtered-table filtered_table.qza
+
+
+qiime taxa barplot \
+--i-table filtered_table.qza \
+--i-taxonomy /home/evgeniy/Desktop/Metagenomics/new_data/ITS/taxonomy.qza \
+--o-visualization filt_taxa-bar.qzv
 --o-visualization bar-plot.qzv
 ```
