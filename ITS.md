@@ -67,6 +67,8 @@ qiime feature-classifier classify-sklearn   --i-classifier /home/evgeniy/Desktop
 qiime taxa barplot \
 --i-table dada2out/table.qza \
 --i-taxonomy taxonomy.qza \
+--o-visualization bar-plot.qzv
+
 ```
 
 ### 8. Фильтрация
